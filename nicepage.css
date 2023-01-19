@@ -39740,7 +39740,21 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
+@media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 186px;
+  }
 
+  .u-footer .u-image-1 {
+    height: 71px;
+  }
+
+  .u-footer .u-text-1 {
+    font-size: 0.625rem;
+    width: auto;
+    margin-top: 9px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
