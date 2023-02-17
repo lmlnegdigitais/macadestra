@@ -41536,17 +41536,11 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 189px;
 }
 
-.u-footer .u-image-1 {
-  width: 136px;
-  height: 77px;
-  margin: 14px auto 0;
-}
-
 .u-footer .u-text-1 {
   font-size: 0.75rem;
   line-height: 1.35;
   font-weight: 400;
-  margin: 20px 10px 14px;
+  margin: 111px 10px 14px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
