@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1148px;
+  min-height: 773px;
 }
 
 .u-section-1 .u-image-1 {
@@ -27,64 +27,25 @@
 
 .u-section-1 .u-custom-html-1 {
   height: auto;
-  min-height: 641px;
-  margin: 35px -29px 60px 29px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1036px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-top: 25px;
-  }
-
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-right: 77px;
-    margin-left: 50px;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: 574px;
-    margin-top: 25px;
-  }
-
-  .u-section-1 .u-custom-html-1 {
-    min-height: 529px;
-    margin-top: 40px;
-    margin-right: initial;
-    margin-left: initial;
-  }
+  min-height: 322px;
+  width: 561px;
+  margin: 35px auto 60px;
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 891px;
-  }
-
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
-    margin-left: 0;
-    margin-right: 0;
+    width: 720px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.25rem;
   }
-
-  .u-section-1 .u-custom-html-1 {
-    min-height: 411px;
-    margin-top: 35px;
-    margin-right: initial;
-    margin-left: initial;
-  }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 800px;
+  .u-section-1 .u-text-1 {
+    width: 540px;
   }
 
   .u-section-1 .u-text-2 {
@@ -92,38 +53,30 @@
   }
 
   .u-section-1 .u-custom-html-1 {
-    min-height: 310px;
-    margin-right: initial;
-    margin-left: initial;
+    width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 627px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 70px;
-    margin-top: 15px;
+    min-height: 669px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.125rem;
-    margin-top: 15px;
+    width: 340px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1rem;
-    width: auto;
-    margin-top: 15px;
-    margin-left: 0;
-    margin-right: 0;
+    width: 340px;
   }
 
   .u-section-1 .u-custom-html-1 {
-    min-height: 191px;
+    min-height: 249px;
+    margin-top: 30px;
     margin-right: initial;
     margin-left: initial;
+    width: auto;
   }
 }
