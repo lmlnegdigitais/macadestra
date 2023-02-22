@@ -33,6 +33,7 @@
 }
 
 .u-section-1 .u-btn-1 {
+  display: none;
   letter-spacing: 1px;
   font-size: 1.5rem;
   background-image: none;
