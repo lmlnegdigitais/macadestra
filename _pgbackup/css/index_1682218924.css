@@ -71,7 +71,6 @@ h2 {
 }
 
 #section-video {
-    margin-top: 1.5rem;
 }
 
 @media (min-width: 1025px) {
@@ -89,6 +88,6 @@ h2 {
 }
 
 section#section-video {
-    border: 2px solid #FEB908;
+    border: 1px solid #FEB908;
     box-shadow: 0px 0px 8px #FEB908;
 }
