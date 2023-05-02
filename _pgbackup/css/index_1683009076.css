@@ -36,8 +36,6 @@ h1 {
 
 h2 {
     font-size: 14px;
-    margin-left: 1rem;
-    margin-right: 1rem;
 }
 
 @media (min-width: 481px) {
